@@ -1,2 +1,2 @@
-# patikacssodevleri-
-Patika Css dersleri tamamlarken istenilen ödevler
+## patikacssodevleri <br>
+#Patika Css dersleri tamamlarken istenilen ödevler
